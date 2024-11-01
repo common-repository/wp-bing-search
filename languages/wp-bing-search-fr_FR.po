@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bing Custom Search for WordPress\n"
+"POT-Creation-Date: 2017-11-16 12:14-0500\n"
+"PO-Revision-Date: 2017-11-16 12:14-0500\n"
+"Last-Translator: SlipFire <team@slipfire.com>\n"
+"Language-Team: SlipFire <team@slipfire.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-bing-search.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: freemius/includes/class-fs-plugin-updater.php:565
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:83 parts/settings/main-settings.php:12
+msgid "Settings"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:101
+msgid ""
+"Bing Custom Search is not setup yet. Complete setup now and get better "
+"search results!."
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:144 parts/settings/main-settings.php:24
+msgid "Custom Configuration ID"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:152 parts/settings/main-settings.php:30
+msgid "Market"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:160 parts/settings/main-settings.php:37
+msgid "Results per page"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:168 parts/settings/main-settings.php:43
+msgid "SafeSearch"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:176 parts/settings/main-settings.php:50
+msgid "API Key"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:298 wp-bing-search.php:174
+#: wp-bing-search.php:175
+msgid "Bing Search"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:306
+msgid "Installation Instructions"
+msgstr ""
+
+#: includes/wp_bing_search_settings.php:319
+msgid "Using Bing Custom Search Console"
+msgstr ""
+
+#: includes/wp_bing_search_theme_compatibility.php:335
+#, php-format
+msgid "%1$s (Including: %2$s)"
+msgstr "%1$s (incluant: %2$s)"
+
+#: parts/settings/main-settings.php:18
+msgid "Tab Name"
+msgstr ""
+
+#: wp-bing-search.php:492
+msgid "Off"
+msgstr ""
+
+#: wp-bing-search.php:493
+msgid "Moderate"
+msgstr ""
+
+#: wp-bing-search.php:494
+msgid "Strict"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Bing Custom Search for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SlipFire"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://slipfire.com"
+msgstr ""

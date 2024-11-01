@@ -1,0 +1,13 @@
+.wp-bing-search-tab {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+a.active-wp-bing-search-tab,
+a.wp-bing-search-tab:focus,
+a.wp-bing-search-tab:hover,
+a.wp-bing-search-tab:active {
+  border-bottom: 2px solid;
+  text-decoration: none;
+  outline: none;
+}
